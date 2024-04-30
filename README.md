@@ -7,3 +7,4 @@ Our ultimate goal is to harness the capabilities of database management systems 
 
 Within this repository, you'll find all the necessary resources, including code, documentation, and guidelines, to understand and contribute to this ambitious project. We encourage collaboration and welcome contributions from developers, designers, and anyone passionate about innovating in the realm of banking technology.
 
+Technologies Used: PHP , MYSQL ,HTML,JAVASCRIPT,XAAMP,VISUAL STUDIO CODE.
